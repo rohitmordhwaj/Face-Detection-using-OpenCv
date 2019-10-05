@@ -37,7 +37,7 @@ def BGR2RGB(image):
 
 
 #Using Pretrained HaarCascade Classifier
-haar_cascade_face=cv2.CascadeClassifier('cascades/data/haarcascade_frontalface_default.xml')
+haar_cascade_face=cv2.CascadeClassifier('cascades/images/haarcascade_frontalface_default.xml')
 
 
 
